@@ -1,0 +1,7 @@
+C:\Users\eduardo.lfuzato\source\repos\aula08ListasERepeticao\aula08ListasERepeticao\bin\Debug\aula08ListasERepeticao.exe.config
+C:\Users\eduardo.lfuzato\source\repos\aula08ListasERepeticao\aula08ListasERepeticao\bin\Debug\aula08ListasERepeticao.exe
+C:\Users\eduardo.lfuzato\source\repos\aula08ListasERepeticao\aula08ListasERepeticao\bin\Debug\aula08ListasERepeticao.pdb
+C:\Users\eduardo.lfuzato\source\repos\aula08ListasERepeticao\aula08ListasERepeticao\obj\Debug\aula08ListasERepeticao.csproj.AssemblyReference.cache
+C:\Users\eduardo.lfuzato\source\repos\aula08ListasERepeticao\aula08ListasERepeticao\obj\Debug\aula08ListasERepeticao.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.lfuzato\source\repos\aula08ListasERepeticao\aula08ListasERepeticao\obj\Debug\aula08ListasERepeticao.exe
+C:\Users\eduardo.lfuzato\source\repos\aula08ListasERepeticao\aula08ListasERepeticao\obj\Debug\aula08ListasERepeticao.pdb
